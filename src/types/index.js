@@ -1,0 +1,1 @@
+export const RICKMORTY_GET="RICKMORTY_GET";
